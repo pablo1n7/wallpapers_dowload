@@ -1,5 +1,6 @@
 beautifulsoup4==4.4.1
 bs4==0.0.1
-lxml==3.6.0
 requests==2.10.0
 tqdm==4.7.6
+sh==1.12.14
+lxml==4.3.3
