@@ -1,4 +1,6 @@
-# wallpapers_dowload based in https://github.com/Princeyadav05/WallsCrawler.git
+# wallpapers_dowload
 Wallpapers Dowload.
 
 python wallpaper.py QUERY PATH
+
+based on https://github.com/Princeyadav05/WallsCrawler.git
