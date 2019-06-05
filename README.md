@@ -1,4 +1,4 @@
-# wallpapers_dowload
+# Wallpapers Download.
 Wallpapers Dowload.
 
 python wallpaper.py QUERY PATH
